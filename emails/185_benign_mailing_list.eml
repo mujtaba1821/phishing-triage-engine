@@ -1,0 +1,13 @@
+From: Ravi Patel via Logistics-IT <logistics-it@groups.example>
+To: Nina <nina.kowalski@harborline.example>
+Subject: [Logistics-IT] TMS upgrade notes
+Date: Mon, 14 Sep 2026 15:48:57 -0000
+Message-ID: <179305156160.797.1402415482263064896@groups.example>
+Authentication-Results: mx.harborline.example; spf=pass
+ smtp.mailfrom=groups.example; dkim=fail header.d=partner-co.example;
+ dmarc=fail header.from=partner-co.example; arc=pass
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Sharing my notes from the TMS upgrade. Happy to answer questions on the list.

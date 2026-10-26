@@ -1,0 +1,28 @@
+From: UPS <mcinfo@ups.com>
+To: Tess <tess.okonkwo@harborline.example>
+Subject: Your shipment is out for delivery
+Date: Tue, 15 Sep 2026 14:14:50 -0000
+Message-ID: <179305156162.797.2729630716958672764@ups.com>
+Authentication-Results: mx.harborline.example; spf=pass smtp.mailfrom=ups.com;
+ dkim=pass header.d=ups.com; dmarc=pass header.from=ups.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6376309271506985368=="
+
+--===============6376309271506985368==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Track it: https://www.ups.com/track?tracknum=1Z999AA10123456784
+
+--===============6376309271506985368==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:Arial,sans-serif"><p>Your shipment is out fo=
+r delivery.</p><p><a href=3D"https://www.ups.com/track?tracknum=3D1Z999AA1012=
+3456784">https://www.ups.com/track?tracknum=3D1Z999AA10123456784</a></p></bod=
+y></html>
+
+--===============6376309271506985368==--

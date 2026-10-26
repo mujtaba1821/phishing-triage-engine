@@ -1,0 +1,31 @@
+From: FreightWaves Daily <news@mail.freightwatch.example>
+To: Omar <omar.haddad@harborline.example>
+Subject: Act now: 40% off pallets ends tonight
+Date: Tue, 08 Sep 2026 17:32:39 -0000
+Message-ID: <179305156147.797.7525457150674970707@mail.freightwatch.example>
+Authentication-Results: mx.harborline.example; spf=pass
+ smtp.mailfrom=freightwatch.example; dkim=pass header.d=freightwatch.example;
+ dmarc=pass header.from=freightwatch.example
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3316430510761583035=="
+
+--===============3316430510761583035==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Read more: https://links.freightwatch.example/ls/click?upn=780759092
+Unsubscribe: https://links.freightwatch.example/unsub?u=780759092
+
+--===============3316430510761583035==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:Arial,sans-serif"><p>Big savings for logisti=
+cs teams.</p><p><a href=3D"https://links.freightwatch.example/ls/click?upn=3D=
+780759092">Read more</a> | <a href=3D"https://links.freightwatch.example/ls/c=
+lick?upn=3D780759093">Shop the sale</a></p><p><a href=3D"https://links.freigh=
+twatch.example/unsub?u=3D780759092">Unsubscribe</a></p></body></html>
+
+--===============3316430510761583035==--

@@ -1,0 +1,30 @@
+From: Acme Supplies Billing <billing@acme-supplies.example>
+To: Nina <nina.kowalski@harborline.example>
+Subject: Invoice INV-46594 payment due
+Date: Sun, 13 Sep 2026 02:16:21 -0000
+Message-ID: <179305156158.797.17291086278756648448@acme-supplies.example>
+Authentication-Results: mx.harborline.example; spf=pass
+ smtp.mailfrom=acme-supplies.example; dkim=pass
+ header.d=acme-supplies.example; dmarc=pass header.from=acme-supplies.example
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5780803124491815575=="
+
+--===============5780803124491815575==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Nina,
+
+Attached is invoice INV-46594. Payment is due in 30 days per our terms.
+
+Acme Supplies AR
+
+--===============5780803124491815575==
+Content-Type: application/pdf
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="INV-46594.pdf"
+MIME-Version: 1.0
+
+JVBERi0xLjQKJSBpbnZvaWNlCjEgMCBvYmo8PD4+ZW5kb2JqCiUlRU9G
+
+--===============5780803124491815575==--

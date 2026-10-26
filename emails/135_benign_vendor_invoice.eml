@@ -1,0 +1,30 @@
+From: Acme Supplies Billing <billing@acme-supplies.example>
+To: Omar <omar.haddad@harborline.example>
+Subject: Invoice INV-41286 payment due
+Date: Fri, 11 Sep 2026 03:02:37 -0000
+Message-ID: <179305156153.797.10407953731530705740@acme-supplies.example>
+Authentication-Results: mx.harborline.example; spf=pass
+ smtp.mailfrom=acme-supplies.example; dkim=pass
+ header.d=acme-supplies.example; dmarc=pass header.from=acme-supplies.example
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4472015187639425269=="
+
+--===============4472015187639425269==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Omar,
+
+Attached is invoice INV-41286. Payment is due in 30 days per our terms.
+
+Acme Supplies AR
+
+--===============4472015187639425269==
+Content-Type: application/pdf
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="INV-41286.pdf"
+MIME-Version: 1.0
+
+JVBERi0xLjQKJSBpbnZvaWNlCjEgMCBvYmo8PD4+ZW5kb2JqCiUlRU9G
+
+--===============4472015187639425269==--

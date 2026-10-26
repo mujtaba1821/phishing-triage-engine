@@ -1,0 +1,31 @@
+From: Acme Supplies Deals <deals@acme-supplies.example>
+To: Sam <sam.ortiz@harborline.example>
+Subject: Urgent: your cart is waiting
+Date: Thu, 10 Sep 2026 18:44:41 -0000
+Message-ID: <179305156152.797.16041442450294405030@acme-supplies.example>
+Authentication-Results: mx.harborline.example; spf=pass
+ smtp.mailfrom=acme-supplies.example; dkim=pass
+ header.d=acme-supplies.example; dmarc=pass header.from=acme-supplies.example
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7399474029868376539=="
+
+--===============7399474029868376539==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Read more: https://click.acme-supplies.example/ls/click?upn=469045628
+Unsubscribe: https://click.acme-supplies.example/unsub?u=469045628
+
+--===============7399474029868376539==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:Arial,sans-serif"><p>Big savings for logisti=
+cs teams.</p><p><a href=3D"https://click.acme-supplies.example/ls/click?upn=
+=3D469045628">Read more</a> | <a href=3D"https://click.acme-supplies.example/=
+ls/click?upn=3D469045629">Shop the sale</a></p><p><a href=3D"https://click.ac=
+me-supplies.example/unsub?u=3D469045628">Unsubscribe</a></p></body></html>
+
+--===============7399474029868376539==--

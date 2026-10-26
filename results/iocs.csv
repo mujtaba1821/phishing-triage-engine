@@ -1,0 +1,261 @@
+file,type,value
+241_phish_credential_harvest.eml,sender,security@rnicrosoft-alerts.test
+241_phish_credential_harvest.eml,url,https://rnicrosoft-alerts.test/session/verify
+242_phish_credential_harvest.eml,sender,security@okta-harborline.test
+242_phish_credential_harvest.eml,url,https://okta-harborline.test/signin
+243_phish_credential_harvest.eml,sender,security@rnicrosoft-alerts.test
+243_phish_credential_harvest.eml,url,https://rnicrosoft-alerts.test/session/verify
+244_phish_credential_harvest.eml,sender,security@micros0ft-support.test
+244_phish_credential_harvest.eml,url,https://micros0ft-login.test/auth/owa
+245_phish_credential_harvest.eml,sender,security@harbor1ine.example
+245_phish_credential_harvest.eml,url,https://harbor1ine.example/reset
+246_phish_credential_harvest.eml,sender,security@rnicrosoft-alerts.test
+246_phish_credential_harvest.eml,url,https://rnicrosoft-alerts.test/session/verify
+247_phish_credential_harvest.eml,sender,security@harbor1ine.example
+247_phish_credential_harvest.eml,url,https://harbor1ine.example/reset
+248_phish_credential_harvest.eml,sender,security@harbor1ine.example
+248_phish_credential_harvest.eml,url,https://harbor1ine.example/reset
+249_phish_credential_harvest.eml,sender,security@micros0ft-support.test
+249_phish_credential_harvest.eml,url,https://micros0ft-login.test/auth/owa
+250_phish_credential_harvest.eml,sender,security@docusign-mail.test
+250_phish_credential_harvest.eml,url,https://docusign-mail.test/view?doc=8821
+251_phish_credential_harvest.eml,sender,security@harbor1ine.example
+251_phish_credential_harvest.eml,url,https://harbor1ine.example/reset
+252_phish_credential_harvest.eml,sender,security@micros0ft-support.test
+252_phish_credential_harvest.eml,url,https://micros0ft-login.test/auth/owa
+253_phish_credential_harvest.eml,sender,security@rnicrosoft-alerts.test
+253_phish_credential_harvest.eml,url,https://rnicrosoft-alerts.test/session/verify
+254_phish_credential_harvest.eml,sender,security@okta-harborline.test
+254_phish_credential_harvest.eml,url,https://okta-harborline.test/signin
+255_phish_credential_harvest.eml,sender,security@rnicrosoft-alerts.test
+255_phish_credential_harvest.eml,url,https://rnicrosoft-alerts.test/session/verify
+256_phish_credential_harvest.eml,sender,security@harbor1ine.example
+256_phish_credential_harvest.eml,url,https://harbor1ine.example/reset
+257_phish_credential_harvest.eml,sender,security@rnicrosoft-alerts.test
+257_phish_credential_harvest.eml,url,https://rnicrosoft-alerts.test/session/verify
+258_phish_credential_harvest.eml,sender,security@rnicrosoft-alerts.test
+258_phish_credential_harvest.eml,url,https://rnicrosoft-alerts.test/session/verify
+259_phish_credential_harvest.eml,sender,security@harbor1ine.example
+259_phish_credential_harvest.eml,url,https://harbor1ine.example/reset
+260_phish_credential_harvest.eml,sender,security@rnicrosoft-alerts.test
+260_phish_credential_harvest.eml,url,https://rnicrosoft-alerts.test/session/verify
+261_phish_credential_harvest.eml,sender,security@docusign-mail.test
+261_phish_credential_harvest.eml,url,https://docusign-mail.test/view?doc=8821
+262_phish_credential_harvest.eml,sender,security@micros0ft-support.test
+262_phish_credential_harvest.eml,url,https://micros0ft-login.test/auth/owa
+263_phish_credential_harvest.eml,sender,security@docusign-mail.test
+263_phish_credential_harvest.eml,url,https://docusign-mail.test/view?doc=8821
+264_phish_credential_harvest.eml,sender,security@rnicrosoft-alerts.test
+264_phish_credential_harvest.eml,url,https://rnicrosoft-alerts.test/session/verify
+265_phish_credential_harvest.eml,sender,security@micros0ft-support.test
+265_phish_credential_harvest.eml,url,https://micros0ft-login.test/auth/owa
+266_phish_credential_harvest.eml,sender,security@okta-harborline.test
+266_phish_credential_harvest.eml,url,https://okta-harborline.test/signin
+267_phish_credential_harvest.eml,sender,security@rnicrosoft-alerts.test
+267_phish_credential_harvest.eml,url,https://rnicrosoft-alerts.test/session/verify
+268_phish_credential_harvest.eml,sender,security@micros0ft-support.test
+268_phish_credential_harvest.eml,url,https://micros0ft-login.test/auth/owa
+269_phish_credential_harvest.eml,sender,security@harbor1ine.example
+269_phish_credential_harvest.eml,url,https://harbor1ine.example/reset
+270_phish_credential_harvest.eml,sender,security@docusign-mail.test
+270_phish_credential_harvest.eml,url,https://docusign-mail.test/view?doc=8821
+271_phish_credential_harvest.eml,sender,security@rnicrosoft-alerts.test
+271_phish_credential_harvest.eml,url,https://rnicrosoft-alerts.test/session/verify
+272_phish_credential_harvest.eml,sender,security@docusign-mail.test
+272_phish_credential_harvest.eml,url,https://docusign-mail.test/view?doc=8821
+273_phish_credential_harvest.eml,sender,security@docusign-mail.test
+273_phish_credential_harvest.eml,url,https://docusign-mail.test/view?doc=8821
+274_phish_credential_harvest.eml,sender,security@harbor1ine.example
+274_phish_credential_harvest.eml,url,https://harbor1ine.example/reset
+275_phish_credential_harvest.eml,sender,security@harbor1ine.example
+275_phish_credential_harvest.eml,url,https://harbor1ine.example/reset
+276_phish_bec_gift_card.eml,sender,danawhitfield.office@gmail.com
+276_phish_bec_gift_card.eml,reply_to,dana.whitfield.exec@proton.test
+277_phish_bec_gift_card.eml,sender,danawhitfield.office@gmail.com
+277_phish_bec_gift_card.eml,reply_to,dana.whitfield.exec@proton.test
+278_phish_bec_gift_card.eml,sender,danawhitfield.office@gmail.com
+278_phish_bec_gift_card.eml,reply_to,dana.whitfield.exec@proton.test
+279_phish_bec_gift_card.eml,sender,danawhitfield.office@gmail.com
+279_phish_bec_gift_card.eml,reply_to,dana.whitfield.exec@proton.test
+280_phish_bec_gift_card.eml,sender,danawhitfield.office@gmail.com
+280_phish_bec_gift_card.eml,reply_to,dana.whitfield.exec@proton.test
+281_phish_bec_gift_card.eml,sender,danawhitfield.office@gmail.com
+281_phish_bec_gift_card.eml,reply_to,dana.whitfield.exec@proton.test
+282_phish_bec_gift_card.eml,sender,danawhitfield.office@gmail.com
+282_phish_bec_gift_card.eml,reply_to,dana.whitfield.exec@proton.test
+283_phish_bec_gift_card.eml,sender,danawhitfield.office@gmail.com
+283_phish_bec_gift_card.eml,reply_to,dana.whitfield.exec@proton.test
+284_phish_bec_gift_card.eml,sender,danawhitfield.office@gmail.com
+284_phish_bec_gift_card.eml,reply_to,dana.whitfield.exec@proton.test
+285_phish_bec_gift_card.eml,sender,danawhitfield.office@gmail.com
+285_phish_bec_gift_card.eml,reply_to,dana.whitfield.exec@proton.test
+286_phish_bec_gift_card.eml,sender,danawhitfield.office@gmail.com
+286_phish_bec_gift_card.eml,reply_to,dana.whitfield.exec@proton.test
+287_phish_bec_gift_card.eml,sender,danawhitfield.office@gmail.com
+287_phish_bec_gift_card.eml,reply_to,dana.whitfield.exec@proton.test
+288_phish_bec_gift_card.eml,sender,danawhitfield.office@gmail.com
+288_phish_bec_gift_card.eml,reply_to,dana.whitfield.exec@proton.test
+289_phish_bec_gift_card.eml,sender,danawhitfield.office@gmail.com
+289_phish_bec_gift_card.eml,reply_to,dana.whitfield.exec@proton.test
+290_phish_bec_gift_card.eml,sender,danawhitfield.office@gmail.com
+290_phish_bec_gift_card.eml,reply_to,dana.whitfield.exec@proton.test
+291_phish_bec_gift_card.eml,sender,danawhitfield.office@gmail.com
+291_phish_bec_gift_card.eml,reply_to,dana.whitfield.exec@proton.test
+292_phish_bec_gift_card.eml,sender,danawhitfield.office@gmail.com
+292_phish_bec_gift_card.eml,reply_to,dana.whitfield.exec@proton.test
+293_phish_bec_gift_card.eml,sender,danawhitfield.office@gmail.com
+293_phish_bec_gift_card.eml,reply_to,dana.whitfield.exec@proton.test
+294_phish_bec_gift_card.eml,sender,danawhitfield.office@gmail.com
+294_phish_bec_gift_card.eml,reply_to,dana.whitfield.exec@proton.test
+295_phish_bec_gift_card.eml,sender,danawhitfield.office@gmail.com
+295_phish_bec_gift_card.eml,reply_to,dana.whitfield.exec@proton.test
+296_phish_bec_gift_card.eml,sender,danawhitfield.office@gmail.com
+296_phish_bec_gift_card.eml,reply_to,dana.whitfield.exec@proton.test
+297_phish_bec_gift_card.eml,sender,danawhitfield.office@gmail.com
+297_phish_bec_gift_card.eml,reply_to,dana.whitfield.exec@proton.test
+298_phish_bec_gift_card.eml,sender,danawhitfield.office@gmail.com
+298_phish_bec_gift_card.eml,reply_to,dana.whitfield.exec@proton.test
+299_phish_bec_gift_card.eml,sender,danawhitfield.office@gmail.com
+299_phish_bec_gift_card.eml,reply_to,dana.whitfield.exec@proton.test
+300_phish_bec_gift_card.eml,sender,danawhitfield.office@gmail.com
+300_phish_bec_gift_card.eml,reply_to,dana.whitfield.exec@proton.test
+301_phish_payroll_diversion.eml,sender,grace.chen@harbor1ine.example
+302_phish_payroll_diversion.eml,sender,grace.chen@harbor1ine.example
+303_phish_payroll_diversion.eml,sender,ben.hartley@harbor1ine.example
+304_phish_payroll_diversion.eml,sender,nina.kowalski@harbor1ine.example
+305_phish_payroll_diversion.eml,sender,omar.haddad@harbor1ine.example
+306_phish_payroll_diversion.eml,sender,nina.kowalski@harbor1ine.example
+307_phish_payroll_diversion.eml,sender,mia.santos@harbor1ine.example
+308_phish_payroll_diversion.eml,sender,omar.haddad@harbor1ine.example
+309_phish_payroll_diversion.eml,sender,sam.ortiz@harbor1ine.example
+310_phish_payroll_diversion.eml,sender,ben.hartley@harbor1ine.example
+311_phish_payroll_diversion.eml,sender,priya.raman@harbor1ine.example
+312_phish_payroll_diversion.eml,sender,luis.ferreira@harbor1ine.example
+313_phish_payroll_diversion.eml,sender,alex.morgan@harbor1ine.example
+314_phish_payroll_diversion.eml,sender,nina.kowalski@harbor1ine.example
+315_phish_payroll_diversion.eml,sender,alex.morgan@harbor1ine.example
+316_phish_payroll_diversion.eml,sender,sam.ortiz@harbor1ine.example
+317_phish_payroll_diversion.eml,sender,tess.okonkwo@harbor1ine.example
+318_phish_payroll_diversion.eml,sender,grace.chen@harbor1ine.example
+319_phish_payroll_diversion.eml,sender,mia.santos@harbor1ine.example
+320_phish_payroll_diversion.eml,sender,tess.okonkwo@harbor1ine.example
+321_phish_html_smuggling.eml,sender,billing@acme-supplies.example
+321_phish_html_smuggling.eml,sha256,544d648dd5e149570821d62d32273222e0752297e547d4b65ea91e27ca5633e6  Invoice_8812.pdf.html
+322_phish_html_smuggling.eml,sender,billing@acme-supplies.example
+322_phish_html_smuggling.eml,sha256,544d648dd5e149570821d62d32273222e0752297e547d4b65ea91e27ca5633e6  Remittance_Advice.html
+323_phish_html_smuggling.eml,sender,billing@acme-supplies.example
+323_phish_html_smuggling.eml,sha256,544d648dd5e149570821d62d32273222e0752297e547d4b65ea91e27ca5633e6  Remittance_Advice.html
+324_phish_html_smuggling.eml,sender,billing@acme-supplies.example
+324_phish_html_smuggling.eml,sha256,544d648dd5e149570821d62d32273222e0752297e547d4b65ea91e27ca5633e6  Invoice_8812.pdf.html
+325_phish_html_smuggling.eml,sender,billing@acme-supplies.example
+325_phish_html_smuggling.eml,sha256,544d648dd5e149570821d62d32273222e0752297e547d4b65ea91e27ca5633e6  Remittance_Advice.html
+326_phish_html_smuggling.eml,sender,billing@acme-supplies.example
+326_phish_html_smuggling.eml,sha256,544d648dd5e149570821d62d32273222e0752297e547d4b65ea91e27ca5633e6  Payment_Confirmation.htm
+327_phish_html_smuggling.eml,sender,billing@acme-supplies.example
+327_phish_html_smuggling.eml,sha256,544d648dd5e149570821d62d32273222e0752297e547d4b65ea91e27ca5633e6  Payment_Confirmation.htm
+328_phish_html_smuggling.eml,sender,billing@acme-supplies.example
+328_phish_html_smuggling.eml,sha256,544d648dd5e149570821d62d32273222e0752297e547d4b65ea91e27ca5633e6  Invoice_8812.pdf.html
+329_phish_html_smuggling.eml,sender,billing@acme-supplies.example
+329_phish_html_smuggling.eml,sha256,544d648dd5e149570821d62d32273222e0752297e547d4b65ea91e27ca5633e6  Remittance_Advice.html
+330_phish_html_smuggling.eml,sender,billing@acme-supplies.example
+330_phish_html_smuggling.eml,sha256,544d648dd5e149570821d62d32273222e0752297e547d4b65ea91e27ca5633e6  Invoice_8812.pdf.html
+331_phish_html_smuggling.eml,sender,billing@acme-supplies.example
+331_phish_html_smuggling.eml,sha256,544d648dd5e149570821d62d32273222e0752297e547d4b65ea91e27ca5633e6  Invoice_8812.pdf.html
+332_phish_html_smuggling.eml,sender,billing@acme-supplies.example
+332_phish_html_smuggling.eml,sha256,544d648dd5e149570821d62d32273222e0752297e547d4b65ea91e27ca5633e6  Remittance_Advice.html
+333_phish_html_smuggling.eml,sender,billing@acme-supplies.example
+333_phish_html_smuggling.eml,sha256,544d648dd5e149570821d62d32273222e0752297e547d4b65ea91e27ca5633e6  Payment_Confirmation.htm
+334_phish_html_smuggling.eml,sender,billing@acme-supplies.example
+334_phish_html_smuggling.eml,sha256,544d648dd5e149570821d62d32273222e0752297e547d4b65ea91e27ca5633e6  Payment_Confirmation.htm
+335_phish_html_smuggling.eml,sender,billing@acme-supplies.example
+335_phish_html_smuggling.eml,sha256,544d648dd5e149570821d62d32273222e0752297e547d4b65ea91e27ca5633e6  Invoice_8812.pdf.html
+336_phish_html_smuggling.eml,sender,billing@acme-supplies.example
+336_phish_html_smuggling.eml,sha256,544d648dd5e149570821d62d32273222e0752297e547d4b65ea91e27ca5633e6  Invoice_8812.pdf.html
+337_phish_html_smuggling.eml,sender,billing@acme-supplies.example
+337_phish_html_smuggling.eml,sha256,544d648dd5e149570821d62d32273222e0752297e547d4b65ea91e27ca5633e6  Invoice_8812.pdf.html
+338_phish_html_smuggling.eml,sender,billing@acme-supplies.example
+338_phish_html_smuggling.eml,sha256,544d648dd5e149570821d62d32273222e0752297e547d4b65ea91e27ca5633e6  Remittance_Advice.html
+339_phish_html_smuggling.eml,sender,billing@acme-supplies.example
+339_phish_html_smuggling.eml,sha256,544d648dd5e149570821d62d32273222e0752297e547d4b65ea91e27ca5633e6  Remittance_Advice.html
+340_phish_html_smuggling.eml,sender,billing@acme-supplies.example
+340_phish_html_smuggling.eml,sha256,544d648dd5e149570821d62d32273222e0752297e547d4b65ea91e27ca5633e6  Remittance_Advice.html
+341_phish_html_smuggling.eml,sender,billing@acme-supplies.example
+341_phish_html_smuggling.eml,sha256,544d648dd5e149570821d62d32273222e0752297e547d4b65ea91e27ca5633e6  Invoice_8812.pdf.html
+342_phish_html_smuggling.eml,sender,billing@acme-supplies.example
+342_phish_html_smuggling.eml,sha256,544d648dd5e149570821d62d32273222e0752297e547d4b65ea91e27ca5633e6  Payment_Confirmation.htm
+343_phish_html_smuggling.eml,sender,billing@acme-supplies.example
+343_phish_html_smuggling.eml,sha256,544d648dd5e149570821d62d32273222e0752297e547d4b65ea91e27ca5633e6  Invoice_8812.pdf.html
+344_phish_html_smuggling.eml,sender,billing@acme-supplies.example
+344_phish_html_smuggling.eml,sha256,544d648dd5e149570821d62d32273222e0752297e547d4b65ea91e27ca5633e6  Invoice_8812.pdf.html
+345_phish_html_smuggling.eml,sender,billing@acme-supplies.example
+345_phish_html_smuggling.eml,sha256,544d648dd5e149570821d62d32273222e0752297e547d4b65ea91e27ca5633e6  Payment_Confirmation.htm
+346_phish_malicious_attachment.eml,sender,ap@freightpay-portal.test
+346_phish_malicious_attachment.eml,sha256,5009fe54ed9d5bee6a24832da03c2dcc7e2d19947f3e030dff5f7bc45c0eba5c  Statement_Oct.docm
+347_phish_malicious_attachment.eml,sender,ap@freightpay-portal.test
+347_phish_malicious_attachment.eml,sha256,5009fe54ed9d5bee6a24832da03c2dcc7e2d19947f3e030dff5f7bc45c0eba5c  Q4_Bonus_Schedule.xlsm
+348_phish_malicious_attachment.eml,sender,ap@freightpay-portal.test
+348_phish_malicious_attachment.eml,sha256,5009fe54ed9d5bee6a24832da03c2dcc7e2d19947f3e030dff5f7bc45c0eba5c  Q4_Bonus_Schedule.xlsm
+349_phish_malicious_attachment.eml,sender,ap@freightpay-portal.test
+349_phish_malicious_attachment.eml,sha256,d1c92bbaa7dee3c89f3b8efcdaa5338a96c8840ea1e643b09bf4c4872cb657e8  Scan_0042.zip
+350_phish_malicious_attachment.eml,sender,ap@freightpay-portal.test
+350_phish_malicious_attachment.eml,sha256,5009fe54ed9d5bee6a24832da03c2dcc7e2d19947f3e030dff5f7bc45c0eba5c  Q4_Bonus_Schedule.xlsm
+351_phish_malicious_attachment.eml,sender,ap@freightpay-portal.test
+351_phish_malicious_attachment.eml,sha256,5009fe54ed9d5bee6a24832da03c2dcc7e2d19947f3e030dff5f7bc45c0eba5c  Shipping_Docs.iso
+352_phish_malicious_attachment.eml,sender,ap@freightpay-portal.test
+352_phish_malicious_attachment.eml,sha256,5009fe54ed9d5bee6a24832da03c2dcc7e2d19947f3e030dff5f7bc45c0eba5c  Q4_Bonus_Schedule.xlsm
+353_phish_malicious_attachment.eml,sender,ap@freightpay-portal.test
+353_phish_malicious_attachment.eml,sha256,5009fe54ed9d5bee6a24832da03c2dcc7e2d19947f3e030dff5f7bc45c0eba5c  Q4_Bonus_Schedule.xlsm
+354_phish_malicious_attachment.eml,sender,ap@freightpay-portal.test
+354_phish_malicious_attachment.eml,sha256,d1c92bbaa7dee3c89f3b8efcdaa5338a96c8840ea1e643b09bf4c4872cb657e8  Scan_0042.zip
+355_phish_malicious_attachment.eml,sender,ap@freightpay-portal.test
+355_phish_malicious_attachment.eml,sha256,5009fe54ed9d5bee6a24832da03c2dcc7e2d19947f3e030dff5f7bc45c0eba5c  Shipping_Docs.iso
+356_phish_malicious_attachment.eml,sender,ap@freightpay-portal.test
+356_phish_malicious_attachment.eml,sha256,5009fe54ed9d5bee6a24832da03c2dcc7e2d19947f3e030dff5f7bc45c0eba5c  Shipping_Docs.iso
+357_phish_malicious_attachment.eml,sender,ap@freightpay-portal.test
+357_phish_malicious_attachment.eml,sha256,d1c92bbaa7dee3c89f3b8efcdaa5338a96c8840ea1e643b09bf4c4872cb657e8  Scan_0042.zip
+358_phish_malicious_attachment.eml,sender,ap@freightpay-portal.test
+358_phish_malicious_attachment.eml,sha256,5009fe54ed9d5bee6a24832da03c2dcc7e2d19947f3e030dff5f7bc45c0eba5c  Q4_Bonus_Schedule.xlsm
+359_phish_malicious_attachment.eml,sender,ap@freightpay-portal.test
+359_phish_malicious_attachment.eml,sha256,5009fe54ed9d5bee6a24832da03c2dcc7e2d19947f3e030dff5f7bc45c0eba5c  Shipping_Docs.iso
+360_phish_malicious_attachment.eml,sender,ap@freightpay-portal.test
+360_phish_malicious_attachment.eml,sha256,d1c92bbaa7dee3c89f3b8efcdaa5338a96c8840ea1e643b09bf4c4872cb657e8  Scan_0042.zip
+381_phish_oauth_consent.eml,sender,share@docsync-app.test
+381_phish_oauth_consent.eml,url,https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=9f1c&response_type=code&scope=Mail.ReadWrite%20Files.ReadWrite.All%20offline_access&redirect_uri=https://docsync-app.test/callback
+382_phish_oauth_consent.eml,sender,share@docsync-app.test
+382_phish_oauth_consent.eml,url,https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=9f1c&response_type=code&scope=Mail.ReadWrite%20Files.ReadWrite.All%20offline_access&redirect_uri=https://docsync-app.test/callback
+383_phish_oauth_consent.eml,sender,share@docsync-app.test
+383_phish_oauth_consent.eml,url,https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=9f1c&response_type=code&scope=Mail.ReadWrite%20Files.ReadWrite.All%20offline_access&redirect_uri=https://docsync-app.test/callback
+384_phish_oauth_consent.eml,sender,share@docsync-app.test
+384_phish_oauth_consent.eml,url,https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=9f1c&response_type=code&scope=Mail.ReadWrite%20Files.ReadWrite.All%20offline_access&redirect_uri=https://docsync-app.test/callback
+385_phish_oauth_consent.eml,sender,share@docsync-app.test
+385_phish_oauth_consent.eml,url,https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=9f1c&response_type=code&scope=Mail.ReadWrite%20Files.ReadWrite.All%20offline_access&redirect_uri=https://docsync-app.test/callback
+386_phish_oauth_consent.eml,sender,share@docsync-app.test
+386_phish_oauth_consent.eml,url,https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=9f1c&response_type=code&scope=Mail.ReadWrite%20Files.ReadWrite.All%20offline_access&redirect_uri=https://docsync-app.test/callback
+387_phish_oauth_consent.eml,sender,share@docsync-app.test
+387_phish_oauth_consent.eml,url,https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=9f1c&response_type=code&scope=Mail.ReadWrite%20Files.ReadWrite.All%20offline_access&redirect_uri=https://docsync-app.test/callback
+388_phish_oauth_consent.eml,sender,share@docsync-app.test
+388_phish_oauth_consent.eml,url,https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=9f1c&response_type=code&scope=Mail.ReadWrite%20Files.ReadWrite.All%20offline_access&redirect_uri=https://docsync-app.test/callback
+389_phish_oauth_consent.eml,sender,share@docsync-app.test
+389_phish_oauth_consent.eml,url,https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=9f1c&response_type=code&scope=Mail.ReadWrite%20Files.ReadWrite.All%20offline_access&redirect_uri=https://docsync-app.test/callback
+390_phish_oauth_consent.eml,sender,share@docsync-app.test
+390_phish_oauth_consent.eml,url,https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=9f1c&response_type=code&scope=Mail.ReadWrite%20Files.ReadWrite.All%20offline_access&redirect_uri=https://docsync-app.test/callback
+391_phish_qr_code.eml,sender,servicedesk@it-helpdesk-portal.test
+391_phish_qr_code.eml,sha256,63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058  verify_qr.png
+392_phish_qr_code.eml,sender,servicedesk@it-helpdesk-portal.test
+392_phish_qr_code.eml,sha256,63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058  verify_qr.png
+393_phish_qr_code.eml,sender,servicedesk@it-helpdesk-portal.test
+393_phish_qr_code.eml,sha256,63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058  verify_qr.png
+394_phish_qr_code.eml,sender,servicedesk@it-helpdesk-portal.test
+394_phish_qr_code.eml,sha256,63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058  verify_qr.png
+395_phish_qr_code.eml,sender,servicedesk@it-helpdesk-portal.test
+395_phish_qr_code.eml,sha256,63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058  verify_qr.png
+396_phish_qr_code.eml,sender,servicedesk@it-helpdesk-portal.test
+396_phish_qr_code.eml,sha256,63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058  verify_qr.png
+397_phish_qr_code.eml,sender,servicedesk@it-helpdesk-portal.test
+397_phish_qr_code.eml,sha256,63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058  verify_qr.png
+398_phish_qr_code.eml,sender,servicedesk@it-helpdesk-portal.test
+398_phish_qr_code.eml,sha256,63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058  verify_qr.png
+399_phish_qr_code.eml,sender,servicedesk@it-helpdesk-portal.test
+399_phish_qr_code.eml,sha256,63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058  verify_qr.png
+400_phish_qr_code.eml,sender,servicedesk@it-helpdesk-portal.test
+400_phish_qr_code.eml,sha256,63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058  verify_qr.png

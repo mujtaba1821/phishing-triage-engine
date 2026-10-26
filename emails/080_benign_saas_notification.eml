@@ -1,0 +1,34 @@
+From: Microsoft 365 <no-reply@microsoft.com>
+To: Alex <alex.morgan@harborline.example>
+Subject: Your sign-in activity summary
+Date: Mon, 07 Sep 2026 05:30:57 -0000
+Message-ID: <179305156144.797.10034968781317253948@microsoft.com>
+Authentication-Results: mx.harborline.example; spf=pass
+ smtp.mailfrom=microsoft.com; dkim=pass header.d=microsoft.com; dmarc=pass
+ header.from=microsoft.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============9125619207408637015=="
+
+--===============9125619207408637015==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+Your sign-in activity summary. Review it here: https://account.microsoft.com/=
+security
+
+If this wasn't you, contact your administrator.
+
+--===============9125619207408637015==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:Arial,sans-serif"><p>Hello,</p><p>Your sign-=
+in activity summary.</p><p><a href=3D"https://account.microsoft.com/security"=
+>Review now</a></p><p>If this wasn't you, contact your administrator.</p></bo=
+dy></html>
+
+--===============9125619207408637015==--

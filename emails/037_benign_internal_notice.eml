@@ -1,0 +1,33 @@
+From: People Team <hr@harborline.example>
+To: Alex <alex.morgan@harborline.example>
+Subject: Reminder: complete security awareness training
+Date: Fri, 04 Sep 2026 04:48:36 -0000
+Message-ID: <179305156136.797.5751781465208833387@harborline.example>
+Authentication-Results: mx.harborline.example; spf=pass
+ smtp.mailfrom=harborline.example; dkim=pass header.d=harborline.example;
+ dmarc=pass header.from=harborline.example
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0309368976662079809=="
+
+--===============0309368976662079809==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Alex,
+
+Details are on the intranet: https://intranet.harborline.example/training
+
+Thanks,
+People Team
+
+--===============0309368976662079809==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:Arial,sans-serif"><p>Hi Alex,</p><p>Details =
+are on the <a href=3D"https://intranet.harborline.example/training">intranet =
+page</a>.</p><p>Thanks,<br>People Team</p></body></html>
+
+--===============0309368976662079809==--

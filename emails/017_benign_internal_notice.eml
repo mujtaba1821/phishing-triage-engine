@@ -1,0 +1,33 @@
+From: People Team <hr@harborline.example>
+To: Luis <luis.ferreira@harborline.example>
+Subject: Q4 all-hands agenda
+Date: Wed, 02 Sep 2026 18:34:55 -0000
+Message-ID: <179305156133.797.8253532202767878066@harborline.example>
+Authentication-Results: mx.harborline.example; spf=pass
+ smtp.mailfrom=harborline.example; dkim=pass header.d=harborline.example;
+ dmarc=pass header.from=harborline.example
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1758753281280377188=="
+
+--===============1758753281280377188==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Luis,
+
+Details are on the intranet: https://intranet.harborline.example/allhands
+
+Thanks,
+People Team
+
+--===============1758753281280377188==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:Arial,sans-serif"><p>Hi Luis,</p><p>Details =
+are on the <a href=3D"https://intranet.harborline.example/allhands">intranet =
+page</a>.</p><p>Thanks,<br>People Team</p></body></html>
+
+--===============1758753281280377188==--

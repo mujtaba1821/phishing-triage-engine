@@ -1,0 +1,31 @@
+From: LinkedOut Learning <learn@linkedout.example>
+To: Nina <nina.kowalski@harborline.example>
+Subject: Act now: 40% off pallets ends tonight
+Date: Tue, 08 Sep 2026 13:26:04 -0000
+Message-ID: <179305156147.797.8523700787561612148@linkedout.example>
+Authentication-Results: mx.harborline.example; spf=pass
+ smtp.mailfrom=linkedout.example; dkim=pass header.d=linkedout.example;
+ dmarc=pass header.from=linkedout.example
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7053301465416070914=="
+
+--===============7053301465416070914==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Read more: https://t.linkedout.example/ls/click?upn=202270066
+Unsubscribe: https://t.linkedout.example/unsub?u=202270066
+
+--===============7053301465416070914==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:Arial,sans-serif"><p>Big savings for logisti=
+cs teams.</p><p><a href=3D"https://t.linkedout.example/ls/click?upn=3D2022700=
+66">Read more</a> | <a href=3D"https://t.linkedout.example/ls/click?upn=3D202=
+270067">Shop the sale</a></p><p><a href=3D"https://t.linkedout.example/unsub?=
+u=3D202270066">Unsubscribe</a></p></body></html>
+
+--===============7053301465416070914==--

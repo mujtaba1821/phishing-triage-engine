@@ -1,0 +1,33 @@
+From: People Team <hr@harborline.example>
+To: Grace <grace.chen@harborline.example>
+Subject: Open enrollment closes Friday
+Date: Wed, 02 Sep 2026 10:21:28 -0000
+Message-ID: <179305156132.797.12634128500801489685@harborline.example>
+Authentication-Results: mx.harborline.example; spf=pass
+ smtp.mailfrom=harborline.example; dkim=pass header.d=harborline.example;
+ dmarc=pass header.from=harborline.example
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1969205461125412482=="
+
+--===============1969205461125412482==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Grace,
+
+Details are on the intranet: https://intranet.harborline.example/benefits
+
+Thanks,
+People Team
+
+--===============1969205461125412482==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:Arial,sans-serif"><p>Hi Grace,</p><p>Details=
+ are on the <a href=3D"https://intranet.harborline.example/benefits">intranet=
+ page</a>.</p><p>Thanks,<br>People Team</p></body></html>
+
+--===============1969205461125412482==--

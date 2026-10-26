@@ -1,0 +1,34 @@
+From: DocuSign <dse@docusign.net>
+To: Jordan <jordan.lee@harborline.example>
+Subject: Completed: Freight services agreement
+Date: Mon, 07 Sep 2026 15:12:42 -0000
+Message-ID: <179305156145.797.5941368797401811114@docusign.net>
+Authentication-Results: mx.harborline.example; spf=pass
+ smtp.mailfrom=docusign.net; dkim=pass header.d=docusign.net; dmarc=pass
+ header.from=docusign.net
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3277498441562720283=="
+
+--===============3277498441562720283==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+Completed: Freight services agreement. Review it here: https://app.docusign.c=
+om/documents/details/4d1a
+
+If this wasn't you, contact your administrator.
+
+--===============3277498441562720283==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:Arial,sans-serif"><p>Hello,</p><p>Completed:=
+ Freight services agreement.</p><p><a href=3D"https://app.docusign.com/docume=
+nts/details/4d1a">Review now</a></p><p>If this wasn't you, contact your admin=
+istrator.</p></body></html>
+
+--===============3277498441562720283==--

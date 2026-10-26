@@ -1,0 +1,34 @@
+From: Okta <noreply@okta.com>
+To: Nina <nina.kowalski@harborline.example>
+Subject: Your password will expire in 5 days
+Date: Sun, 06 Sep 2026 14:37:11 -0000
+Message-ID: <179305156142.797.14926001327319426654@okta.com>
+Authentication-Results: mx.harborline.example; spf=pass
+ smtp.mailfrom=okta.com; dkim=pass header.d=okta.com; dmarc=pass
+ header.from=okta.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0590820300578861065=="
+
+--===============0590820300578861065==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+Your password will expire in 5 days. Review it here: https://harborline.okta.=
+com/enduser/settings
+
+If this wasn't you, contact your administrator.
+
+--===============0590820300578861065==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:Arial,sans-serif"><p>Hello,</p><p>Your passw=
+ord will expire in 5 days.</p><p><a href=3D"https://harborline.okta.com/endus=
+er/settings">Review now</a></p><p>If this wasn't you, contact your administra=
+tor.</p></body></html>
+
+--===============0590820300578861065==--

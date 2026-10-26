@@ -1,0 +1,14 @@
+From: Grace Chen <gracechen92@gmail.com>
+To: Nina <nina.kowalski@harborline.example>
+Subject: Lunch Thursday?
+Date: Fri, 18 Sep 2026 11:38:05 -0000
+Message-ID: <179305156168.797.17299472933403133579@gmail.com>
+Authentication-Results: mx.harborline.example; spf=pass
+ smtp.mailfrom=gmail.com; dkim=pass header.d=gmail.com; dmarc=pass
+ header.from=gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Hey! Sending from my personal email since my laptop is in the shop. See you t=
+omorrow.

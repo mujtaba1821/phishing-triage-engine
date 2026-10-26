@@ -1,0 +1,28 @@
+From: FedEx <TrackingUpdates@fedex.com>
+To: Tess <tess.okonkwo@harborline.example>
+Subject: Your shipment is out for delivery
+Date: Wed, 16 Sep 2026 10:10:06 -0000
+Message-ID: <179305156164.797.18301590193945676390@fedex.com>
+Authentication-Results: mx.harborline.example; spf=pass
+ smtp.mailfrom=fedex.com; dkim=pass header.d=fedex.com; dmarc=pass
+ header.from=fedex.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7540208923301596926=="
+
+--===============7540208923301596926==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Track it: https://www.fedex.com/fedextrack/?trknbr=7712
+
+--===============7540208923301596926==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:Arial,sans-serif"><p>Your shipment is out fo=
+r delivery.</p><p><a href=3D"https://www.fedex.com/fedextrack/?trknbr=3D7712"=
+>https://www.fedex.com/fedextrack/?trknbr=3D7712</a></p></body></html>
+
+--===============7540208923301596926==--

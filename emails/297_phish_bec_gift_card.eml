@@ -1,0 +1,18 @@
+From: Dana Whitfield <danawhitfield.office@gmail.com>
+To: Jordan <jordan.lee@harborline.example>
+Subject: Are you at your desk?
+Date: Tue, 22 Sep 2026 14:33:54 -0000
+Message-ID: <179305156177.797.9600496962774505674@gmail.com>
+Reply-To: dana.whitfield.exec@proton.test
+Authentication-Results: mx.harborline.example; spf=pass
+ smtp.mailfrom=gmail.com; dkim=pass header.d=gmail.com; dmarc=pass
+ header.from=gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Jordan, are you available? I need you to purchase 6 Apple gift cards ($200 ea=
+ch) for a client today. Keep this confidential until I announce it. Send me t=
+he codes as soon as you have them. I'm in meetings, email only.
+
+Dana

@@ -1,0 +1,14 @@
+From: Sam Ortiz <samortiz41@gmail.com>
+To: Alex <alex.morgan@harborline.example>
+Subject: Photos from the team outing
+Date: Fri, 18 Sep 2026 07:05:57 -0000
+Message-ID: <179305156168.797.3170727995381578060@gmail.com>
+Authentication-Results: mx.harborline.example; spf=pass
+ smtp.mailfrom=gmail.com; dkim=pass header.d=gmail.com; dmarc=pass
+ header.from=gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Hey! Sending from my personal email since my laptop is in the shop. See you t=
+omorrow.

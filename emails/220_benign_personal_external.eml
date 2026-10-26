@@ -1,0 +1,14 @@
+From: Grace Chen <gracechen97@gmail.com>
+To: Ben <ben.hartley@harborline.example>
+Subject: Photos from the team outing
+Date: Thu, 17 Sep 2026 03:29:08 -0000
+Message-ID: <179305156166.797.8550108373853344847@gmail.com>
+Authentication-Results: mx.harborline.example; spf=pass
+ smtp.mailfrom=gmail.com; dkim=pass header.d=gmail.com; dmarc=pass
+ header.from=gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Hey! Sending from my personal email since my laptop is in the shop. See you t=
+omorrow.

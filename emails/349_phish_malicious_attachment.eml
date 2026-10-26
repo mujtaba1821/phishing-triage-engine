@@ -1,0 +1,26 @@
+From: Accounts Payable <ap@freightpay-portal.test>
+To: Sam <sam.ortiz@harborline.example>
+Subject: Updated statement attached
+Date: Sat, 26 Sep 2026 06:47:03 -0000
+Message-ID: <179305156184.797.6482207228951627077@freightpay-portal.test>
+Authentication-Results: mx.harborline.example; spf=pass
+ smtp.mailfrom=freightpay-portal.test; dkim=none header.d=none; dmarc=none
+ header.from=freightpay-portal.test
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5163123457211757773=="
+
+--===============5163123457211757773==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Please enable editing and content to view the document.
+
+--===============5163123457211757773==
+Content-Type: application/zip
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Scan_0042.zip"
+MIME-Version: 1.0
+
+UEsDBHBheWxvYWQuanM=
+
+--===============5163123457211757773==--

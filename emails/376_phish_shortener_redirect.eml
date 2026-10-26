@@ -1,0 +1,29 @@
+From: Parcel Services <notice@delivery-alerts.test>
+To: Priya <priya.raman@harborline.example>
+Subject: Package held: customs fee unpaid
+Date: Mon, 28 Sep 2026 04:32:32 -0000
+Message-ID: <179305156188.797.14889647256533036309@delivery-alerts.test>
+Authentication-Results: mx.harborline.example; spf=softfail
+ smtp.mailfrom=delivery-alerts.test; dkim=none header.d=none; dmarc=none
+ header.from=delivery-alerts.test
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4188016624643156124=="
+
+--===============4188016624643156124==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your package could not be delivered. Pay the $2.99 fee here: https://www.goog=
+le.com/url?q=3Dhttps://parcel-hold.test/pay&sa=3DD
+
+--===============4188016624643156124==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:Arial,sans-serif"><p>Your package could not =
+be delivered.</p><p><a href=3D"https://www.google.com/url?q=3Dhttps://parcel-=
+hold.test/pay&sa=3DD">Pay the $2.99 fee</a></p></body></html>
+
+--===============4188016624643156124==--

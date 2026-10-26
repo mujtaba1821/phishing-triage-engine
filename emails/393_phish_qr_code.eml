@@ -1,0 +1,28 @@
+From: IT Service Desk <servicedesk@it-helpdesk-portal.test>
+To: Tess <tess.okonkwo@harborline.example>
+Subject: MFA re-enrollment required
+Date: Tue, 29 Sep 2026 09:48:13 -0000
+Message-ID: <179305156191.797.9086149000988255001@it-helpdesk-portal.test>
+Authentication-Results: mx.harborline.example; spf=pass
+ smtp.mailfrom=it-helpdesk-portal.test; dkim=none header.d=none; dmarc=none
+ header.from=it-helpdesk-portal.test
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1084295102300091289=="
+
+--===============1084295102300091289==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your multi-factor authentication expires today. Scan the attached QR code wit=
+h your phone to re-verify your account.
+
+--===============1084295102300091289==
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="verify_qr.png"
+MIME-Version: 1.0
+
+iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8A
+AAAASUVORK5CYII=
+
+--===============1084295102300091289==--

@@ -1,0 +1,15 @@
+From: Ben Hartley <ben.hartley@harbor1ine.example>
+To: People Team <hr@harborline.example>
+Subject: Direct deposit update
+Date: Wed, 23 Sep 2026 12:32:34 -0000
+Message-ID: <179305156178.797.7665912586086472522@harbor1ine.example>
+Authentication-Results: mx.harborline.example; spf=pass
+ smtp.mailfrom=harbor1ine.example; dkim=pass header.d=harbor1ine.example;
+ dmarc=none header.from=harbor1ine.example
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Hi, I changed banks. Please update my direct deposit to the new account befor=
+e this payroll run. I can't log into Workday right now, so please handle it b=
+y email. Thanks!

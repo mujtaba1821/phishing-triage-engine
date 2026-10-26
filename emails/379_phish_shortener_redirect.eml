@@ -1,0 +1,29 @@
+From: Parcel Services <notice@delivery-alerts.test>
+To: Alex <alex.morgan@harborline.example>
+Subject: Package held: customs fee unpaid
+Date: Mon, 28 Sep 2026 10:06:41 -0000
+Message-ID: <179305156189.797.1850927624540678499@delivery-alerts.test>
+Authentication-Results: mx.harborline.example; spf=softfail
+ smtp.mailfrom=delivery-alerts.test; dkim=none header.d=none; dmarc=none
+ header.from=delivery-alerts.test
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0339452539809338881=="
+
+--===============0339452539809338881==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your package could not be delivered. Pay the $2.99 fee here: https://bit.ly/3=
+81995x
+
+--===============0339452539809338881==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:Arial,sans-serif"><p>Your package could not =
+be delivered.</p><p><a href=3D"https://bit.ly/381995x">Pay the $2.99 fee</a><=
+/p></body></html>
+
+--===============0339452539809338881==--
